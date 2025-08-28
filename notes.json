@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1756346687803,
+    "title": "Judul Pertama",
+    "body": "Ini adalah isi catatan pertama."
+  },
+  {
+    "id": 1756346687816,
+    "title": "Belajar Node.js",
+    "body": "Membuat aplikasi CLI sederhana."
+  }
+]
